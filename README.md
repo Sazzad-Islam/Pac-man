@@ -24,3 +24,4 @@ The q-learning perform better than the classifers. This can be run using the fol
 python3 pacman.py -p QLearnAgent -x 2000 -n 2010 -l smallGrid
 
 ```
+There is a zip file full program file that is zipped up download it then run it on Pycharm since it has more files so its difficult to upload whole file 
